@@ -1,0 +1,135 @@
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: red;
+}
+.main-menu .navbar-default .navbar-nav .active a{
+	color: red;
+}
+.main-menu nav li a::after {
+    background: red;
+}
+.typer{
+	color: red !important;
+}
+.banner-text h2{
+	color: red
+}
+.book-btn a{
+	background: red;
+	border: 3px solid red;
+}
+.book-btn a:hover{
+	border: 3px solid #f04900;
+}
+.hvr-underline-from-center::before{
+	background:#f04900;
+}
+.block-title{
+	color: red;
+}
+.item-type-zoom .item-hover:hover::before{
+	background: rgba(231, 91, 30, 0.5);
+}
+.special-box .owl-theme .owl-controls .owl-page.active span{
+	background: red;
+}
+.offer-item div h3{
+	color: red;
+}
+.tab-menu .is-active{
+	background: red;
+}
+.tab-menu .slick-arrow.slick-prev{
+	background: red url(../../images/back.png) no-repeat center;
+	background-position: 2px 4px;
+}
+.tab-menu .slick-arrow.slick-next{
+	background: red url(../../images/next.png) no-repeat center;
+	background-position: 7px 4px;
+}
+
+.offer-item .offer-price{
+	border: 1px solid red;
+}
+.sf-team:hover .text-col{
+	background-color: red;
+}
+.gal-item a::after{
+	background-color: rgba(231, 91, 30, 0.75);
+}
+.overlay i:hover{
+	border: 1px solid red;
+	color: red;
+}
+.blog-btn-v a{
+	background: red;
+	border: 3px solid red;
+}
+.book-srv a{
+	background: red;
+	border: 3px solid red;
+}
+
+.panel-pricing .panel-heading{
+	background: red;
+}
+.panel-pricing{
+	border: 1px solid red;
+}
+.panel-body p strong span{
+	color: red;
+}
+.pricing-main .panel-footer a{
+	background: red;
+	border: 3px solid red;
+}
+.pricing-main .panel-footer a:hover{
+	border: 3px solid #f04900;
+}
+
+.reserve-book-btn button{
+	background: red;
+	border: 3px solid red;
+}
+.reserve-book-btn button:hover a{
+	color:#000000;
+}
+.footer-news form a{
+	background: red;
+}
+.footer-news form a:hover{
+	border: 2px dotted red;
+}
+.footer-box-a h3{
+	color: red;
+}
+.footer-box-b h3{
+	color: red;
+}
+.footer-box-c h3{
+	color: red;
+}
+.footer-box-d h3{
+	color: red;
+}
+.footer-box-c p a:hover{
+	color: red;
+}
+.footer-box-b ul li a:hover{
+	color: red;
+}
+
+.footer-box .socials-box a:hover .social-circle-border{
+	color: red;
+}
+
+.footer-box-c p i{
+	color: red;
+}
+
+.copyright-main{
+	background: red;
+}
+
+#color-panel a.panel-button:hover{
+	color: red;		
+}
